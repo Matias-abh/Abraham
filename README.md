@@ -3,7 +3,7 @@
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/B1uajA01vvL91Urtsp/giphy.gif" />
 </div>
-<h3 align="center">Desarrollador Full Stack egresado del bootcamp SoyHenry 🚀</h3>
+<h3 align="center">Desarrollador Full Stack 💻🚀</h3>
 
 ---
 
