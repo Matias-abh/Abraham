@@ -55,13 +55,13 @@ Soy Abraham, 💻 desarrollador web Full-Stack formado en el bootcamp SoyHenry, 
 ---
 
 ⮞ Datos de contacto:
-- linkedin: [Abraham Matias](https://www.linkedin.com/in/abraham-gonzalez-/)
+- Linkedin: [Abraham Matias](https://www.linkedin.com/in/abraham-gonzalez-/)
 - 📧 matias.abh@gmail.com
 - 📞 (+54) 9 11 4173 1170
 
 ---
 
-<h3 align="left">Languages and Tools 🛠💻</h3>
+<h3 align="left">Lenguajes y herramientas 🛠💻</h3>
 
 <br/>
 
