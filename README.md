@@ -7,7 +7,7 @@
 
 ---
 
-Hola! 🙌🏽 Soy Abraham, 💻 desarrollador web Full-Stack formado en el bootcamp SoyHenry, además de estar cursando una tecnicatura de análisis de sistemas en el instituto ESBA.
+Soy Abraham, 💻 desarrollador web Full-Stack formado en el bootcamp SoyHenry, además de estar cursando una tecnicatura de análisis de sistemas en el instituto ESBA.
 
 ⮞ Tengo experiencia académica trabajando en la variedad de proyectos que ofrece el curso intensivo SoyHenry, además de otros proyectos pequeños, independientes en los cuales trabajé simultáneamente.
 
